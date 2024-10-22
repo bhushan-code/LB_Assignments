@@ -11,7 +11,7 @@ typedef int BOOL;
 // Input          : Integer
 // Output         : BOOLEAN
 // Author         : Bhushan Ramdas Nagpure (090LI_Bhushan)
-// Date           : 19/10/2024
+// Date           : 21/10/2024
 // 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -32,6 +32,7 @@ BOOL Check(int iNo)
 // This application is used to Accept one number and check whether it is divisible by 5 or not.
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
 int main()
 {
     int iValue = 0;

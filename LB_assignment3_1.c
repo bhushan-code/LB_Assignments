@@ -21,12 +21,17 @@ void PrintEven(int iNo)
 
     int iCnt = 0;
     
-    for(iCnt = 1; iCnt <= iNo*2; iCnt++)
+    // for(iCnt = 1; iCnt <= iNo*2; iCnt++)
+    // {
+    //     if(iCnt % 2 == 0)
+    //     {
+    //         printf("%d\t",iCnt);
+    //     }
+    // }
+    for(iCnt = 2;  iNo > 0; iNo--)
     {
-        if(iCnt % 2 == 0)
-        {
-            printf("%d\t",iCnt);
-        }
+        printf("%d\t",iCnt);
+        iCnt += 2;
     }
 }
 

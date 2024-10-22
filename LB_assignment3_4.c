@@ -3,9 +3,9 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-// Function Name  : 
-// Description    : 
-// Input          : 
+// Function Name  : DisplayConvert
+// Description    : Convert case of that character
+// Input          : Integer
 // Output         : -
 // Author         : Bhushan Ramdas Nagpure (090LI_Bhushan)
 // Date           : 22/10/2024

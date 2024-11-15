@@ -1,7 +1,7 @@
 //Q-5 Accept N numbers from user and display all such elements hich are multiple of 11.
 //Input   :     N : 6 
 //              Elements : 85  66  3   15  93  88
-//Output  :     66  88
+//Output  :     66  88  
 
 
 #include<stdio.h>

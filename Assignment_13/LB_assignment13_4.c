@@ -1,7 +1,7 @@
 //Q-4 Accept N numbers from user and display all such elements which are and divisible by 3 and 5.
 //Input   :     N : 6 
 //              Elements : 85  66  3   15  93  88
-//Output  :     15
+//Output  :     15  
 
 
 #include<stdio.h>

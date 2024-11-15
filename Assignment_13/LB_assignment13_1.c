@@ -1,7 +1,7 @@
 //Q-1 Accept N numbers from user and return differnce between sum of even elements and sum of odd elements.
 //Input   :     N : 6 
 //              Elements : 85  66  3   80  93  88
-//Output  :     53  (234 -181)
+//Output  :     53  (234 -181)  
 
 
 #include<stdio.h>

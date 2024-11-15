@@ -1,4 +1,4 @@
-//Q-5 Accept N numbers from user and accept one anather numbers as No, check whether No is present or not.
+//Q-1 Accept N numbers from user and accept one anather numbers as No, check whether No is present or not.
 //Input   :     N : 6 
 //              NO: 66
 //              Elements : 66  66  3   15  93  88
@@ -14,7 +14,7 @@
 //
 // Function Name  : Check
 // Description    : Checks whether No is present or not.
-// Input          : Pointer, Integer
+// Input          : Pointer, Integer, Integer
 // Output         : BOOL
 // Author         : Bhushan Ramdas Nagpure (090LI_Bhushan)
 // Date           : 13/11/2024

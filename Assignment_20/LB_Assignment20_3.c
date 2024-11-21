@@ -1,4 +1,4 @@
-//Q-1 Accept the number of rows and colums form user and display below pattern.
+//Q-3 Accept the number of rows and colums form user and display below pattern.
 //Input  : iRow = 3     iCol = 5
 //Output : 
 //         5   4   3   2   1

@@ -13,7 +13,7 @@
 //
 // Function Name  : Pattern
 // Description    : Display pattern
-// Input          : Integer
+// Input          : Integer, Integer
 // Output         : -
 // Author         : Bhushan Ramdas Nagpure (090LI_Bhushan)
 // Date           : 18/11/2024

@@ -1,0 +1,46 @@
+/* 
+Q-2 Write a Recursive program which display below pattern.
+    Input : 5
+    Output: 1   2   3   4   5
+*/
+
+#include<stdio.h>
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Function Name  : Display
+// Description    : Display Pattern.
+// Input          : Integer
+// Output         : -
+// Author         : Bhushan Ramdas Nagpure (090LI_Bhushan)
+// Date           : 10/12/2024
+// 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+void Display(int iNo)
+{
+    static int iCnt = 1;
+    if(iCnt <= iNo)
+    {
+        printf("%d\t",iCnt);
+        iCnt++;
+        Display(iNo);
+    }        
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//This application will display pattern as asked.
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+int main()
+{
+    int iValue = 0;
+    
+    printf("Enter the number : ");
+    scanf("%d",&iValue);
+
+    Display(iValue);
+    return 0;
+}
